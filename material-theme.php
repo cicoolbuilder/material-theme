@@ -1,8 +1,4 @@
 <?php 
-namespace SimpleInvoice;
-
-use Cc_Extension;
-
 app()->load->library('cc_app');
 app()->load->library('cc_html');
 
